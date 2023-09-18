@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color:grey;
+}
+.firstcol,.lastcol{
+	width:200;
+}
+.middlecol{
+	width:600;
+}
